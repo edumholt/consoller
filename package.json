@@ -1,0 +1,76 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "consoller",
+        "scope": null,
+        "escapedName": "consoller",
+        "name": "consoller",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/edumholt/Documents/node/demo"
+    ]
+  ],
+  "_from": "consoller@latest",
+  "_id": "consoller@1.0.2",
+  "_inCache": true,
+  "_location": "/consoller",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/consoller-1.0.1.tgz_1487785266884_0.8594573442824185"
+  },
+  "_npmUser": {
+    "name": "edumholt",
+    "email": "edumholt@gmail.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "consoller",
+    "scope": null,
+    "escapedName": "consoller",
+    "name": "consoller",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/consoller/-/consoller-1.0.1.tgz",
+  "_shasum": "ac114419f8506d6c22695651cd9411bb1d4e78dc",
+  "_shrinkwrap": null,
+  "_spec": "consoller",
+  "_where": "/Users/edumholt/Documents/node/demo",
+  "author": {
+    "name": "Edward Dumholt",
+    "email": "edumholt@menard-inc.com"
+  },
+  "dependencies": {},
+  "description": "writes a message to the console",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "ac114419f8506d6c22695651cd9411bb1d4e78dc",
+    "tarball": "https://registry.npmjs.org/consoller/-/consoller-1.0.1.tgz"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "edumholt",
+      "email": "edumholt@gmail.com"
+    }
+  ],
+  "name": "consoller",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}

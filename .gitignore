@@ -1,0 +1,10 @@
+# VS Code
+.vscode
+
+# Node
+logs
+*.log
+npm-debug.log*
+ 
+#OSX
+*.DS_Store
